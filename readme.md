@@ -1,7 +1,7 @@
 ## Olá pessoal 👋, meu nome é Andreia.
 
 - 🔭 Atualmente estou trabalhando na GFT BRASIL.
-- 🌱 Estou aprendendo GraphQL e Angular 13.
+- 🌱 Estou aperfeiçoando meus conhecimentos em Angular 8+.
 - 👯 Estou procurando colaborar com projetos complexos.
 - 🤔 Estou procurando ajuda com novas tecnologias.
 - 💬 Pergunte-me sobre qualquer coisa, estou aqui pra ajudar.
